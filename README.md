@@ -21,9 +21,7 @@ Welcome to my personal portfolio webpage! As a web developer, I've crafted this 
 ## Learning Resources
 - [Dave Gray's Semantic HTML Tags Tutorial](https://youtu.be/kX3TfdUqpuU?si=G4mG-_JaiVHozZ5e)
 - [Dave Gray's CSS Custom Variables Tutorial](https://youtu.be/K_M7D0PfOFM?si=wxnRkNIUdm0RBL06)
-- [Dave Gray's How to Organize CSS Tutorial]([#](https://youtu.be/MNPdifWAAa4?si=c8OmbrbLbp7gGurk))
-
-Please replace the `#` with the actual URLs of the tutorial videos.
+- [Dave Gray's How to Organize CSS Tutorial](https://youtu.be/MNPdifWAAa4?si=c8OmbrbLbp7gGurk)
 
 ## Contact
 Feel free to reach out for collaborations or work opportunities.
