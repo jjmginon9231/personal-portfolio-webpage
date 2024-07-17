@@ -1,5 +1,7 @@
 # Personal Portfolio Webpage
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/19573487-2580-4435-8ce9-a8a183718a1f/deploy-status)](https://app.netlify.com/sites/personal-portfolio-webpage-2024/deploys)
+
 ## Introduction
 Welcome to my personal portfolio webpage! As a web developer, I've crafted this site to showcase my expertise. The design and development of this webpage are heavily influenced by the best practices taught by Dave Gray, whose tutorials on Semantic HTML, CSS Custom Variables, and CSS Organization have greatly enhanced my skills.
 
